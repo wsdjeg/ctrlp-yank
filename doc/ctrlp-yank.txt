@@ -1,0 +1,21 @@
+*ctrlp-yank.txt*	neoyank support for ctrlp
+wsdjeg                                               *ctrlp-yank* *ctrlp-yank*
+
+==============================================================================
+CONTENTS                                                 *ctrlp-yank-contents*
+  1. Introduction...........................................|ctrlp-yank-intro|
+  2. Commands............................................|ctrlp-yank-commands|
+
+==============================================================================
+INTRODUCTION                                                *ctrlp-yank-intro*
+
+ctrlp-yank is a neoyank plugin for ctrlp
+
+==============================================================================
+COMMANDS                                                 *ctrlp-yank-commands*
+
+:CtrlPNeoyank                                                  *:CtrlPNeoyank*
+  Open yank history
+
+
+vim:tw=78:ts=8:ft=help:norl:
